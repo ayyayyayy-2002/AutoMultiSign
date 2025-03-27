@@ -10,7 +10,7 @@ fork或者clone到自己的仓库，配置好Secrets即可，程序会自动运�
 UA：抓取Cookie的浏览器的UserAgent字符串  
 BOTTOKEN：TelegramBot的密钥  
 USERID：接收推送的Telegram账号的ID  
-SOUTHPLUS：SouthPlus的Cookie  
+SOUTHPLUS：SouthPlus的Cookie,保证有且仅有eb9e6_winduser与eb9e6_cknum两个字段，多余字段会导致卡CF验证。  
 ACGFUN：AcgFun的Cookie  
 V2EX:V2EX的Cookie
 
